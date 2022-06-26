@@ -1,9 +1,12 @@
-# READ AND WRITE AN IMAGE
-## AIM
+## EX.NO: 01<br>
+## DATE: 01-04-2022
+## <p align="center">READ AND WRITE AN IMAGE</p>
+## Aim:
+<br>
 To write a python program using OpenCV to do the following image manipulations.
-i) Read, display, and write an image.
-ii) Access the rows and columns in an image.
-iii) Cut and paste a small portion of the image.
+<br>i) Read, display, and write an image.
+<br>ii) Access the rows and columns in an image.
+<br>iii) Cut and paste a small portion of the image.
 
 ## Software Required:
 Anaconda - Python 3.7
@@ -21,10 +24,10 @@ End the program and close the output image windows.
 
 ## Program:
 
-# Developed By: Pabbarthi Chetan Sathish kumar
-# Register Number : 212220230033
+### Developed By: P S Chetan
+### Register Number : 212220230033
 
-```
+```python
 # To Read,display the image
 
 import cv2
@@ -55,28 +58,40 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-![image](https://user-images.githubusercontent.com/74660507/160992657-b8695c7f-aca1-47fd-80c6-1a598a378482.png)
+ ![image](https://user-images.githubusercontent.com/74660507/160992657-b8695c7f-aca1-47fd-80c6-1a598a378482.png)
 
+<br>
+<br>
 
 ### ii)Write the image
 
 ![image](https://user-images.githubusercontent.com/74660507/160993167-75b1ab3d-3a84-401c-85e2-e8be317454a7.png)
 
+<br>
+<br>
 
 ### iii)Shape of the Image
 
 ![image](https://user-images.githubusercontent.com/74660507/160993079-ae353ca4-dedf-48cb-bc2e-478ed53e9e7f.png)
 
+<br>
+<br>
 
 ### iv)Access rows and columns
 
 ![image](https://user-images.githubusercontent.com/74660507/160993376-f553254c-19c9-46da-a3d2-da9c7b96af85.png)
 
+<br>
+<br>
 
 ### v)Cut and paste portion of image
 
 ![image](https://user-images.githubusercontent.com/74660507/160993549-d4c5319e-32e4-4999-a3ed-35afdefe1aa8.png)
 
+<br>
+<br>
 
 ## Result:
+
 Thus the images are read, displayed, and written successfully using the python program.
+
