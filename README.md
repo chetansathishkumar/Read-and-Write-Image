@@ -1,5 +1,5 @@
 ## EX.NO: 01<br>
-## DATE: 01-04-2022
+## DATE: 15.03.2023
 ## <p align="center">READ AND WRITE AN IMAGE</p>
 ## Aim:
 <br>
