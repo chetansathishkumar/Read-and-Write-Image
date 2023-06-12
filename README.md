@@ -53,6 +53,21 @@ image[70:90,110:175]=image[70:90,110:175]
 cv2.imshow("image",image)
 cv2.waitKey(0)
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Output:
 
@@ -62,6 +77,12 @@ cv2.waitKey(0)
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ### ii)Write the image
 
@@ -69,11 +90,44 @@ cv2.waitKey(0)
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ### iii)Shape of the Image
 
 ![image](https://user-images.githubusercontent.com/74660507/160993079-ae353ca4-dedf-48cb-bc2e-478ed53e9e7f.png)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -83,11 +137,19 @@ cv2.waitKey(0)
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### v)Cut and paste portion of image
 
 ![image](https://user-images.githubusercontent.com/74660507/160993549-d4c5319e-32e4-4999-a3ed-35afdefe1aa8.png)
 
+<br>
 <br>
 <br>
 
